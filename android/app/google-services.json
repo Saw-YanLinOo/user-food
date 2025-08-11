@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "109381590450",
+    "project_id": "momofood-2b75f",
+    "storage_bucket": "momofood-2b75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109381590450:android:929db274687713458d18ab",
+        "android_client_info": {
+          "package_name": "com.mmofood.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Iv9Et11kMMUIZGUTbBz1LNmTTRdEV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109381590450:android:5c5886b32601ca2b8d18ab",
+        "android_client_info": {
+          "package_name": "com.mmofood.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Iv9Et11kMMUIZGUTbBz1LNmTTRdEV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109381590450:android:c2de17895f6a18b18d18ab",
+        "android_client_info": {
+          "package_name": "com.momofood.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Iv9Et11kMMUIZGUTbBz1LNmTTRdEV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
