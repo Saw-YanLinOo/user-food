@@ -105,6 +105,8 @@ class Images {
   static const String noti = 'assets/image/noti.png';
   static const String notificationPlaceholder =
       'assets/image/notification_placeholder.png';
+  static const String icNotification = 'assets/image/ic_notification.png';
+
   static const String subscriptionOrder = 'assets/image/subscription_order.png';
   static const String regularOrder = 'assets/image/regular_order.png';
   static const String appleLogo = 'assets/image/apple_logo.png';
